@@ -1,7 +1,13 @@
 {
     "plugins": [
         "code-highlighter",
-        "code-editor"
+        "code-editor",
+        "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "eloquente-js",
+            "useIdentifier": true
+        }
+    }
 }
