@@ -14,7 +14,8 @@
         "chart",
         "codesnippet",
         "include-codeblock",
-        "ga"
+        "ga",
+        "wabtheme"
     ],
     "pluginsConfig": {
         "disqus": {
