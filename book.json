@@ -1,5 +1,6 @@
 {
     "language": "pt",
+    "author": "Marijn Haverbeke",
     "structure": {
         "readme": "README.md" ,
         "glossary": "glossario.md",
