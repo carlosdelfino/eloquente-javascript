@@ -13,12 +13,17 @@
         "ace",
         "chart",
         "codesnippet",
-        "include-codeblock"
+        "include-codeblock",
+        "ga"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "eloquente-js",
             "useIdentifier": true
+        },
+        "ga": {
+            "token": "UA-21710445-1",
+            "configuration": "auto"
         }
     }
 }
