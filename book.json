@@ -1,4 +1,8 @@
 {
+    "language": "pt",
+    "structure": {
+        "readme": "README.md",
+    },
     "plugins": [
         "code-highlighter",
         "code-editor",
