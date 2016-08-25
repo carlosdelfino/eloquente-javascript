@@ -2,7 +2,18 @@
     "plugins": [
         "code-highlighter",
         "code-editor",
-        "disqus"
+        "disqus",
+        "exercises",
+        "zingchart",
+        "quiz",
+        "quizzes",
+        "codepen",
+        "jsfiddle",
+        "gist",
+        "ace",
+        "chart",
+        "codesnippet",
+        "include-codeblock"
     ],
     "pluginsConfig": {
         "disqus": {
