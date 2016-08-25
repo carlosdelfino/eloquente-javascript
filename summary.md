@@ -1,7 +1,8 @@
 # Sumário
 
 * [Introdução](chapters/00-introducao.md)
-* **Parte 1: Linguagem**
+
+## **Parte 1: Linguagem**
  * [Valores, Tipos e Operadores](chapters/01-valores-tipos-operadores.md)
  * [Estrutura do Programa](chapters/02-estrutura-do-programa.md)
  * [Funções](chapters/03-funcoes.md)
@@ -13,7 +14,8 @@
  * [Expressões Regulares](chapters/09-expressoes-regulares.md)
  * [Módulos](chapters/10-modulos.md)
  * [Prática: A Linguagem de Programação](chapters/11-pratica-linguagem-de-programacao.md)
-* **Parte 2: Navegador**
+
+## **Parte 2: Navegador**
  * [JavaScript e o Navegador](chapters/12-javascript-e-o-navegador.md)
  * [O *Document Object Model*](chapters/13-document-object-model.md)
  * [Manipulando Eventos](chapters/14-manipulando-eventos.md)
