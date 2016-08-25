@@ -1,7 +1,7 @@
 {
     "language": "pt",
     "structure": {
-        "readme": "README.md",
+        "readme": "README.md"
     },
     "plugins": [
         "code-highlighter",
