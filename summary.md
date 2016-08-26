@@ -1,29 +1,31 @@
 # Sumário
 
+## JavaScript Eloquente - 2ª edição
+* [Apresentação](README.md)
 * [Introdução](chapters/00-introducao.md)
 
-## **Parte 1: Linguagem**
- * [Valores, Tipos e Operadores](chapters/01-valores-tipos-operadores.md)
- * [Estrutura do Programa](chapters/02-estrutura-do-programa.md)
- * [Funções](chapters/03-funcoes.md)
- * [Estrutura de Dados: Objeto e Array](chapters/04-estruturas-de-dados.md)
- * [Funções de Ordem Superior](chapters/05-funcoes-de-ordem-superior.md)
- * [A Vida Secreta dos Objetos](chapters/06-a-vida-secreta-dos-objetos.md)
- * [Prática: Vida Eletrônica](chapters/07-pratica-vida-eletronica.md)
- * [Erros e Manipulação de Erros](chapters/08-erros-e-manipulacao-de-erros.md)
- * [Expressões Regulares](chapters/09-expressoes-regulares.md)
- * [Módulos](chapters/10-modulos.md)
- * [Prática: A Linguagem de Programação](chapters/11-pratica-linguagem-de-programacao.md)
+## Parte 1: Linguagem
+* [Valores, Tipos e Operadores](chapters/01-valores-tipos-operadores.md)
+* [Estrutura do Programa](chapters/02-estrutura-do-programa.md)
+* [Funções](chapters/03-funcoes.md)
+* [Estrutura de Dados: Objeto e Array](chapters/04-estruturas-de-dados.md)
+* [Funções de Ordem Superior](chapters/05-funcoes-de-ordem-superior.md)
+* [A Vida Secreta dos Objetos](chapters/06-a-vida-secreta-dos-objetos.md)
+* [Prática: Vida Eletrônica](chapters/07-pratica-vida-eletronica.md)
+* [Erros e Manipulação de Erros](chapters/08-erros-e-manipulacao-de-erros.md)
+* [Expressões Regulares](chapters/09-expressoes-regulares.md)
+* [Módulos](chapters/10-modulos.md)
+* [Prática: A Linguagem de Programação](chapters/11-pratica-linguagem-de-programacao.md)
 
-## **Parte 2: Navegador**
- * [JavaScript e o Navegador](chapters/12-javascript-e-o-navegador.md)
- * [O *Document Object Model*](chapters/13-document-object-model.md)
- * [Manipulando Eventos](chapters/14-manipulando-eventos.md)
- * [Projeto: Plataforma de Jogo](chapters/15-projeto-plataforma-de-jogo.md)
- * [Desenhando no Canvas](chapters/16-desenhando-no-canvas.md)
- * [HTTP](chapters/17-http.md)
- * [Formulários e Campos de Formulários](chapters/18-formularios-e-campos-de-formularios.md)
- * [Projeto: Um Programa de Pintura](chapters/19-projeto-um-programa-de-pintura.md)
-* **Parte 3: Node.js**
- * [Node.js](chapters/20-nodejs.md)
- * [Projeto: Website de Compartilhamento de Habilidades](chapters/21-projeto-website-de-compartilhamento-de-habilidades.md)
+## Parte 2: Navegador
+* [JavaScript e o Navegador](chapters/12-javascript-e-o-navegador.md)
+* [O Document Object Model](chapters/13-document-object-model.md)
+* [Manipulando Eventos](chapters/14-manipulando-eventos.md)
+* [Projeto: Plataforma de Jogo](chapters/15-projeto-plataforma-de-jogo.md)
+* [Desenhando no Canvas](chapters/16-desenhando-no-canvas.md)
+* [HTTP](chapters/17-http.md)
+* [Formulários e Campos de Formulários](chapters/18-formularios-e-campos-de-formularios.md)
+* [Projeto: Um Programa de Pintura](chapters/19-projeto-um-programa-de-pintura.md)
+* [Node.js](chapters/20-nodejs.md)
+* [Projeto: Website de Compartilhamento de Habilidades](chapters/21-projeto-website-de-compartilhamento-de-habilidades.md)
+
